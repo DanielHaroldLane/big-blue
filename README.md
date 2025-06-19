@@ -1,8 +1,8 @@
 # big-blue
 This repo contains the formulation for "Big Blue" ultrasonic cleaning detergent.
 
+```
 ╔═════════════════════════════════════════╦═════════════╗
-
 ║Chemical Name                            ║Concentration║
 ╠═════════════════════════════════════════╬═════════════╣
 ║[Sodium Carbonate](https://amzn.to/449ipBM)                     ║45%          ║
@@ -17,3 +17,4 @@ This repo contains the formulation for "Big Blue" ultrasonic cleaning detergent.
 ╠═════════════════════════════════════════╬═════════════╣
 ║[Thymolphthalein](https://amzn.to/449nwlm)                      ║0.1%         ║
 ╚═════════════════════════════════════════╩═════════════╝
+```
